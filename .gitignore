@@ -2,3 +2,8 @@
 input/data_subset.zip
 input/data_subset/
 iam-handwriting-top50/data_subset.zip
+handwritten-ml/checkpoint2/check-01-3.6061.hdf5
+handwritten-ml/checkpoint2/check-02-4.1897.hdf5
+handwritten-ml/checkpoint2/check-03-3.6158.hdf5
+handwritten-ml/checkpoint2/check-04-3.7543.hdf5
+handwritten-ml/checkpoint2/check-05-3.8120.hdf5
